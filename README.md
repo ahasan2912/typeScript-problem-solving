@@ -15,11 +15,3 @@ All solutions are implemented in a single file:
 - Object transformation
 - OOP (Classes & Inheritance)
 
-## 📌 Problem List & Solutions Overview
-
-### ✅ Problem 1: Filter Even Numbers
-Create a function that filters even numbers from an array.
-
-**Function:**
-```ts
-filterEvenNumbers(numbers: number[]): number[]
